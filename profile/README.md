@@ -6,6 +6,11 @@ I'm passionate about staying updated with the latest industry trends and continu
 
 Here you will find all the projects I've built so far.
 
+### Contact
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/juan-alexsander-2674b0228#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/juan-alexsander-2674b0228#gh-dark-mode-only)
 
 ## Skills
 
