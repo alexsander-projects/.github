@@ -6,6 +6,8 @@ I'm passionate about staying updated with the latest industry trends and continu
 
 Here you will find all the projects I've built so far.
 
+---
+
 ## Skills
 
 - Azure
@@ -16,6 +18,8 @@ Here you will find all the projects I've built so far.
 - DevOps
 - Jenkins
 - Docker
+
+---
 
 ### Tools I use:
 
@@ -39,9 +43,12 @@ Here you will find all the projects I've built so far.
 <img align="left" alt="Powershell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  style="padding-right:10px;" />
 
+---
+
 ### Languages
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 
 
+---
