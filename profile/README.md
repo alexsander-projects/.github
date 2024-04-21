@@ -32,6 +32,5 @@ Here you will find all the projects I've built so far.
 <img align="left" alt="AzureDevOps" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Powershell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" style="padding-right:10px;" />
