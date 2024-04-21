@@ -19,7 +19,7 @@ Here you will find all the projects I've built so far.
 
 ### Tools I use:
 
-[<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />]
