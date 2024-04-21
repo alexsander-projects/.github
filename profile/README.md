@@ -13,13 +13,13 @@ Here you will find all the projects I've built so far.
 ## Skills
 
 - Azure
-- C#
-- Python
-- Tensorflow
 - AWS
 - DevOps
 - Jenkins
 - Docker
+- C#
+- Python
+- Tensorflow
 
 
 ### Tools I use:
