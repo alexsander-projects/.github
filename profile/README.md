@@ -8,7 +8,7 @@ Here you will find all the projects I've built so far.
 
 ### Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-juan-alexsander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-alexsander-2674b0228)](https://www.linkedin.com/in/juan-alexsander-2674b0228)
+[![Linkedin: Juan Alexsander](https://img.shields.io/badge/-JuanAlexsander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-alexsander-2674b0228/)](https://www.linkedin.com/in/juan-alexsander-2674b0228/)
 
 ## Skills
 
