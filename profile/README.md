@@ -4,4 +4,4 @@ I'm passionate about staying updated with the latest industry trends and continu
 
 Here you will find all the projects I've built so far.
 
-[![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=J.Alexsander)](https://github.com/J.Alexsander/github-readme-stats)
+[![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexsander-j)](https://github.com/Alexsander-j/github-readme-stats)
