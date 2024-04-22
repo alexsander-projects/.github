@@ -1,4 +1,4 @@
-## About me
+# About me
 
 Hello there! My name is Juan and I have a lot of skills in cloud computing, like: AWS, Azure, Jenkins, Terraform, Python and even TensorFlow.
 
@@ -6,7 +6,7 @@ I'm passionate about staying updated with the latest industry trends and continu
 
 Here you will find all the projects I've built so far.
 
-### Contact
+## Contact
 
 [![Linkedin: Juan Alexsander](https://img.shields.io/badge/-JuanAlexsander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-alexsander-2674b0228/)](https://www.linkedin.com/in/juan-alexsander-2674b0228/)
 
@@ -22,7 +22,7 @@ Here you will find all the projects I've built so far.
 - Tensorflow
 
 
-### Tools I use:
+## Tools I use:
 
 <img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px;" />
@@ -46,7 +46,7 @@ Here you will find all the projects I've built so far.
 
 ---
 
-- Languages:
+## Languages:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
