@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Hi there! I'm **Alexsander**, a dedicated developer with expertise in **Rust**, **Cloud Integrations**, and **DevOps Tools**. I enjoy crafting solutions that bridge innovative technologies with practical real-world applications. Explore my work below!
+Hi there! I'm **Alexsander**,  I enjoy crafting solutions that bridge innovative technologies with practical real-world applications. Explore my work below!
 
 ---
 
@@ -40,6 +40,7 @@ Hi there! I'm **Alexsander**, a dedicated developer with expertise in **Rust**, 
 
 ### Future Goals:
 - 🌍 Keep exploring new technologies and frameworks to expand my skill set.
+- I am eager to secure my first role in cloud computing.
 
 
 
@@ -49,4 +50,3 @@ Hi there! I'm **Alexsander**, a dedicated developer with expertise in **Rust**, 
 |--------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | **Email**          | [alexsanderjuan13@gmail.com](mailto:alexsanderjuan13@gmail.com)              | ![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail)          |
 | **LinkedIn**       | [Alexsander Profile](https://www.linkedin.com/in/juan-alexsander-2674b0228/) | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin) |
-| **GitHub Profile** | [Alexsander GitHub](https://github.com/alexsander-projects)                  | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)      |
