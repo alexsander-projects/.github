@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Hi there! I'm **Alexsander**,  I enjoy crafting solutions that bridge innovative technologies with practical real-world applications. Explore my work below!
+Hi, I'm **Alexsander**! I craft solutions that bridge innovative tech with practical, real-world applications. Explore my work below!
 
 ---
 
@@ -35,14 +35,14 @@ Hi there! I'm **Alexsander**,  I enjoy crafting solutions that bridge innovative
 
 ### Current Focus:
 - ⚡ **High-Performance Rust Applications:** Leveraging Rust's speed and safety for efficient, scalable software.
-- 🌐 **Cloud-Native Solutions:** Developing integrations and tools for **Azure** and **AWS**.
+- 🌐 **Cloud-Native Solutions & IaC:** Developing integrations and tools for **Azure** and **AWS**, and deepening expertise in Infrastructure as Code.
+- 🤖 **Exploring AI in DevOps:** Investigating AI-driven automation and optimization in CI/CD and cloud operations.
 - 🚀 **CI/CD Optimization:** Creating seamless pipelines with **Jenkins**, **Kubernetes**, and **Docker**.
 
 ### Future Goals:
-- 🌍 Keep exploring new technologies and frameworks to expand my skill set.
-- I am eager to secure my first role in cloud computing.
-
-
+- 🎯 **Secure a challenging role in Cloud Engineering or DevOps** where I can leverage my skills in AWS/Azure and automation.
+- 💡 **Continuously learn and master emerging cloud technologies and AI applications** in the tech landscape.
+- 🤝 **Contribute to innovative open-source projects** within the cloud-native ecosystem.
 
 ### 📫 Let's Connect!
 
